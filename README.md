@@ -1,6 +1,6 @@
-CID_048_Athena_Commando_F_HolidayGingerbread, 1500
-CID_049_Athena_Commando_M_HolidayGingerbread, 1500
-Pickaxe_ID_329_GingerbreadCookie1H, 0
+CID_703_Athena_Commando_M_Cyclone, 1500
+CID_695_Athena_Commando_F_DesertOpsCamo, 1500
+Glider_ID_196_CycloneMale, 0
 na
 na
 na
